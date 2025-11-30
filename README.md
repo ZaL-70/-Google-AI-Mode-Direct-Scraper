@@ -113,19 +113,8 @@ Filename [ai_responses.json]: my_research.json
 ```
 🤖 AI Response (paragraph):
 ------------------------------------------------------------
-The fundamental difference between quantum and normal (classical) computers 
-lies in the principles they use to process information. Classical computers 
-use bits that can be either 0 or 1, while quantum computers use qubits that 
-can be both 0 and 1 simultaneously. [... full explanation ...]
+<img width="1911" height="967" alt="image" src="https://github.com/user-attachments/assets/91ebd8ce-bb1c-44a5-a218-bd6c2c18a25e" />
 
-📊 Table 1:
-+--------------------+--------------------------------------------+
-| Feature            | Classical Computing  | Quantum Computing   |
-+====================+============================+================+
-| Basic Unit         | Uses a bit (0 or 1)       | Uses a qubit    |
-+--------------------+---------------------------+-----------------+
-| Processing         | Sequential                | Parallel        |
-+--------------------+---------------------------+-----------------+
 ```
 
 ## 🎯 Best Practices for Educational Use
